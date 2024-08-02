@@ -53,7 +53,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threat Modeling Security Fundamentals](https://learn.microsoft.com/en-us/training/paths/tm-threat-modeling-fundamentals/)
 
-- Threat Modeling for Builders Workshop is AWS' threat modeling workshop. Available in [AWS Workshop Studio](https://catalog.workshops.aws/threatmodel/en-US), and [AWS Skill Builder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13274/threat-modeling-the-right-way-for-builders-workshop) (requires free AWS Skill Builder account).
+- AWS' Threat modeling for builders workshop is available on [AWS Workshop Studio](https://catalog.workshops.aws/threatmodel/en-US), and [AWS Skill Builder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13274/threat-modeling-the-right-way-for-builders-workshop) (requires free AWS Skill Builder account).
 
 
 ### Paid
