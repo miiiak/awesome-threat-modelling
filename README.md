@@ -192,6 +192,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Leveraging Threat Modeling for your SOC/SIEM](https://www.ncsc.gov.uk/collection/building-a-security-operations-centre/onboarding-systems-and-log-sources/threat-modelling)
 
+- [AWS' How to approach threat modeling](https://aws.amazon.com/blogs/security/how-to-approach-threat-modeling/)
+
 
 ## Threat Model examples
 
