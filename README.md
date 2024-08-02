@@ -280,6 +280,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - A collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.
 
+- [Threat composer](https://github.com/awslabs/threat-composer) - A simple threat modeling tool to help humans to reduce time-to-value when threat modeling. Try the [hosted version](https://awslabs.github.io/threat-composer/) on AWSlabs. Data is persisted only client-side within the browser (100% local storage).
 
 ### Paid tools
 
